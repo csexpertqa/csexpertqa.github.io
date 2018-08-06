@@ -550,6 +550,19 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 	opacity:0.7;
 }
 
+
+.service-item{
+	
+	text-align: center;
+	margin: 10px;
+}
+.service-ico{
+	color: orangered;
+	font-size: 50px;
+
+
+}
+
 /*------------------------------------*\
 	Courses
 \*------------------------------------*/
